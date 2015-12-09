@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		65AF2D001C18CF2600818B74 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 65AF2CFE1C18CF2600818B74 /* Icon-72.png */; };
+		65AF2D011C18CF2600818B74 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 65AF2CFF1C18CF2600818B74 /* Icon-72@2x.png */; };
 		65D347191C18AAE900B30D95 /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = 65D347171C18AAE900B30D95 /* first.png */; };
 		65D3471A1C18AAE900B30D95 /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = 65D347181C18AAE900B30D95 /* second.png */; };
 		8C9F493216FB853B00BF041D /* Order+create.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C9F493116FB853B00BF041D /* Order+create.m */; };
@@ -32,6 +34,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		65AF2CFE1C18CF2600818B74 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		65AF2CFF1C18CF2600818B74 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72@2x.png"; sourceTree = "<group>"; };
 		65D347171C18AAE900B30D95 /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
 		65D347181C18AAE900B30D95 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		8C9F493016FB853B00BF041D /* Order+create.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Order+create.h"; sourceTree = "<group>"; };
@@ -142,6 +146,8 @@
 		8CCFB26016EBD3E200ADBBB1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				65AF2CFE1C18CF2600818B74 /* Icon-72.png */,
+				65AF2CFF1C18CF2600818B74 /* Icon-72@2x.png */,
 				8CCFB26116EBD3E200ADBBB1 /* CelebrityBeerAndWings-Info.plist */,
 				8CCFB26216EBD3E200ADBBB1 /* InfoPlist.strings */,
 				8CCFB26516EBD3E200ADBBB1 /* main.m */,
@@ -209,9 +215,11 @@
 			files = (
 				65D347191C18AAE900B30D95 /* first.png in Resources */,
 				8CCFB26416EBD3E200ADBBB1 /* InfoPlist.strings in Resources */,
+				65AF2D011C18CF2600818B74 /* Icon-72@2x.png in Resources */,
 				8CCFB26C16EBD3E200ADBBB1 /* Default.png in Resources */,
 				8CCFB26E16EBD3E200ADBBB1 /* Default@2x.png in Resources */,
 				8CCFB27016EBD3E200ADBBB1 /* Default-568h@2x.png in Resources */,
+				65AF2D001C18CF2600818B74 /* Icon-72.png in Resources */,
 				8CCFB27316EBD3E200ADBBB1 /* MainStoryboard.storyboard in Resources */,
 				65D3471A1C18AAE900B30D95 /* second.png in Resources */,
 			);
